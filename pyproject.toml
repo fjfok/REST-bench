@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "rest_sim"
 version = "0.2.0"
 description = "Restaurant management simulation — The Rotterdam Table"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 dependencies = ["numpy>=1.24"]
 
 [tool.pytest.ini_options]
