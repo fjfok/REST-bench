@@ -32,3 +32,6 @@ game/decisions_log.jsonl
 game/dashboard.pid
 game/dashboard.log
 game/dashboard_runs/
+
+# AutoResearch ratchet log — untracked, append-only
+results.tsv
